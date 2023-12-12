@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mari\\source\\repos\\lessonn4\\lessonn4\\lessonn4.csproj",
+      "projectUniqueName": "C:\\Users\\Mari\\Desktop\\visstud\\lessonn4\\lessonn4\\lessonn4.csproj",
       "projectName": "lessonn4",
-      "projectPath": "C:\\Users\\Mari\\source\\repos\\lessonn4\\lessonn4\\lessonn4.csproj",
+      "projectPath": "C:\\Users\\Mari\\Desktop\\visstud\\lessonn4\\lessonn4\\lessonn4.csproj",
       "packagesPath": "C:\\Users\\Mari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mari\\source\\repos\\lessonn4\\lessonn4\\obj\\",
+      "outputPath": "C:\\Users\\Mari\\Desktop\\visstud\\lessonn4\\lessonn4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mari\\AppData\\Roaming\\NuGet\\NuGet.Config",
